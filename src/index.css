@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #C6FFDD;  
+  background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);
+  background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); 
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
